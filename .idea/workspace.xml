@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d35a6a58-c8f8-4368-b08c-ef470f91367f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 9.py" afterDir="false" />
-    </list>
+    <list default="true" id="d35a6a58-c8f8-4368-b08c-ef470f91367f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
