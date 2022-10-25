@@ -3,8 +3,8 @@
 #nombre posterior a la N y el grupo B por el resto. Escribir un programa que pregunte al
 #usuario su nombre y sexo, y muestre por pantalla el grupo que le corresponde.
 
-nombre = input("Introduce tu nombre: ")
-sexo = input("Introduce tu sexo(M o H): ")
+nombre = input("Introduce tu nombre:\n")
+sexo = input("Introduce tu sexo(M o H):\n")
 
 if sexo == "M":
     if nombre[0].lower() < "m":

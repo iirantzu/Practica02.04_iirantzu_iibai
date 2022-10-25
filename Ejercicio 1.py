@@ -3,11 +3,10 @@
 #por el usuario coincide con la guardada en la variable sin tener en cuenta mayúsculas y
 #minúsculas.
 
-password = "contraseña"
+contraseña = "contraseña"
 
-user_password = input("Introduce contraseña:\n")
+contraseña_usuario = input("Introduce contraseña:\n")
 
-while user_password.lower() != password:
-   user_password = input("La contraseña es ERRÓNEA, introduce contraseña:\n")
-
+while contraseña_usuario.lower() != contraseña:
+   contraseña_usuario = input("La contraseña es ERRONEA, introduce contraseña:\n")
    print("La contraseña es CORRECTA")

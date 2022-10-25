@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35a6a58-c8f8-4368-b08c-ef470f91367f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicio 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio 9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio 9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/2M/Documents/DAPI/GIT&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2M/Documents/DAPI/GIT/Practica02.04_iirantzu_iibai&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>

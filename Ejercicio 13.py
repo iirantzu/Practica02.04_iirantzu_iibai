@@ -2,7 +2,8 @@
 #hasta que el usuario escriba “salir” que terminará.
 
 while True:
-   frase = input("Introduce algo: ")
-   if frase == "salir":
+   palabra = input("Introduce una palabra: ")
+   if palabra == "salir":
        break
-   print(frase)
+   print(palabra)
+print("Has seleccionado salir")
